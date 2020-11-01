@@ -69,8 +69,8 @@ public class Scenario4Test extends TestBase {
         optionalDetails.specifyUsr();
         optionalDetails.draftTheComplaint();
     
-        /*optionalDetails.optionsLogout();
-        optionalDetails.logoutFromApp();*/
+        optionalDetails.optionsLogout();
+        optionalDetails.logoutFromApp();
 
 
     }

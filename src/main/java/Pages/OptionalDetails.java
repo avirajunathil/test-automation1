@@ -94,7 +94,7 @@ public class OptionalDetails extends BasePage {
         click(doneButton);
     }
 
-    /*public void optionsLogout() {
+    public void optionsLogout() {
         wait.forElementToBeVisible(clickOnOption);
         click(clickOnOption);
 
@@ -103,6 +103,6 @@ public class OptionalDetails extends BasePage {
         wait.forElementToBeVisible(logout);
         click(logout);
 
-    }*/
+    }
 
 }
